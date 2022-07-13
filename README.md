@@ -237,5 +237,3 @@ Parameters:
 To run the test yo must move on a e2e folder project. You can create it answer `Y' to the question
 `Do you want an E2E project to be created? (Y/n)` in the creation app process.
 See `cells app:create` above.
-
-Test
