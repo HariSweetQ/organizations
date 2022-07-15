@@ -20,14 +20,15 @@ const appConfig = {
      */
     pagesPath: './pages/',
     prplLevel: 1,
-    initialBundle: ['login'],
+    initialBundle: ['login'],    
 
     /* Internationalization options */
     locales: {
       languages: ['es-ES', 'en-US', 'es'],
       intlInputFileNames: ['locales'],
       intlFileName: 'locales'
-    }
+    },
+    postMessageTargetOrigin: "http://localhost:8000",
   },
 
   /**
